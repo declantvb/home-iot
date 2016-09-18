@@ -35,3 +35,8 @@ jspm_packages
 
 # Optional REPL history
 .node_repl_history
+
+#Custom
+client/LuaLoader.exe
+client/LuaLoader.ini
+client/RecentFiles.txt
